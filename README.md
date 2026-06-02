@@ -134,8 +134,8 @@ v0.1.0-alpha  ← en desarrollo
 
 ## Autor
 
-**Desarrollado por:** [Tu nombre]
-**Contacto:** [tu@email.com]
+**Desarrollado por:** Ruben Fuentes
+**Contacto:** rubenfuentes416@gmail.com
 **Ubicación:** México
 
 ---
